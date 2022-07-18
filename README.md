@@ -4,7 +4,5 @@
 </p>
 
 ## Description
-The repository is designated for issue tracking, it's our ticketing hub for treating and managing all of your bug reports and suggestions regarding the DayZ Survival Gamemode, UCP, Discord, Website, and Community.
+The repository is designated for issue tracking, it's our ticketing hub for treating and managing all of your bug reports and suggestions regarding the DayZ Survival Gamemode, UCP, Discord, Website, and Community. For more info on how to contribute, read our [contribution guide](./CONTRIBUTING.md).
 
-## Creating a ticket
-To create a ticket, navigate to the [Issues](https://github.com/dayz-survival/board/issues) tab and click the [New issue](https://github.com/dayz-survival/board/issues/new/choose) button. Fill in all necessary info about your report and submit the issue.
