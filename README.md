@@ -4,5 +4,5 @@
 </p>
 
 ## Description
-The repository is designated for issue tracking, it's our ticketing hub for treating and managing all of your bug reports and suggestions regarding the DayZ Survival Gamemode, UCP, Discord, Website, and Community. For more info on how to contribute, read our [contribution guide](./CONTRIBUTING.md).
+The repository is designated for issue tracking, it's our ticketing hub for treating and managing all of your bug reports and suggestions regarding the DayZ Survival Gamemode, UCP, Discord, Website, and Community. For more info on how to contribute, read our [contribution guide](./CONTRIBUTING.md). Information about our code of conduct can be read [here](./CODE_OF_CONDUCT.md).
 
